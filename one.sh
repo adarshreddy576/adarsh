@@ -7,3 +7,4 @@ git learning commands
 learning pull requests
 
 na friend
+git pull code
