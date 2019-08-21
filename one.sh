@@ -9,3 +9,5 @@ learning pull requests
 na friend
 git pull code
 git fetch
+git full requests
+git add pull 
