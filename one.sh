@@ -8,3 +8,4 @@ learning pull requests
 
 na friend
 git pull code
+git fetch
